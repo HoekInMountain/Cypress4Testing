@@ -65,7 +65,7 @@ Cypress/
 
 Watch the full Cypress test demo here:
 
-📺 [Watch for demo](https://youtu.be/your-demo-video-link)
+📺 [Watch for demo](https://drive.google.com/file/d/1Kf1HH0-gKwHsFwwMveM0d6iEJxb2-wR1/view?usp=drive_link)
 
 > Replace the link above with your actual video URL.
 
